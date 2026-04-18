@@ -51,7 +51,7 @@ Su objetivo principal es evitar la pérdida de herramientas y mejorar la trazabi
 ### Instalación
 
 ```bash
-git clone https://github.com/your-username/tooltrack.git
+git clone https://github.com/DarsecDev/tooltrack.git
 cd tooltrack
 ```
 
